@@ -12,11 +12,11 @@
 
 <p align="center">Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
-No WhatsApp Web abra o console do Browser
+<p align="center">No WhatsApp Web abra o console do Browser
 
-Cole o código no console e aperte Enter
+<p align="center">Cole o código no console e aperte Enter
 
-Pronto</p>
+<p align="center">Pronto</p>
 
 <br>
 
