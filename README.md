@@ -2,7 +2,7 @@
 
 Código para enviar o Script inteiro da música Never Gonna Give You Up para seus amigos ou grupos do WhatsApp.
 
-## Utilização
+<h2 align="center">Utilização</h2>
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
