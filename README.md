@@ -6,7 +6,7 @@
 
 <h1 align="center"> SendScriptWhatsApp</h1>
 
-Código para enviar o Script inteiro da música Never Gonna Give You Up para seus amigos ou grupos do WhatsApp.
+<p align="center">Código para enviar o Script inteiro da música Never Gonna Give You Up para seus amigos ou grupos do WhatsApp.</p>
 
 <h2 align="center">Utilização</h2>
 
